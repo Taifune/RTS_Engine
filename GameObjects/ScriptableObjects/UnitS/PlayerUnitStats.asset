@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd58d907145445e42b66b7f2beaa7615, type: 3}
+  m_Name: PlayerUnitStats
+  m_EditorClassIdentifier: 
+  playerID: 1
+  unitName: Unit
+  Icon: {fileID: 21300000, guid: 2348578efe33c344a9a50f07c52860b9, type: 3}
+  attackRange: 5
+  attackSpeed: 2
+  projectileSpeed: 10
+  health: 15
+  damage: 4
+  minDamage: 2
+  maxDamage: 4
+  viewRange: 10
+  viewAngle: 90
+  viewSpeed: 0.5
+  armor: 1
+  moveStopRange: 2
+  productionCost: 50
+  productionTime: 5
+  canGatherResources: 0
+  carryAmount: 20
+  ammoAmount: 150

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 774c97196c46d56419164b138cdded3d, type: 3}
+  m_Name: CentralBuildingStats
+  m_EditorClassIdentifier: 
+  playerID: 1
+  typeID: 2
+  Name: Central Building
+  Icon: {fileID: 0}
+  health: 1000
+  attackRange: 10
+  attackSpeed: 10
+  damage: 10
+  armor: 6
+  buildingSize: 6
+  buildingRange: 25
+  buildingCost: 1500
+  buildingSpeed: 25
+  canReciveResources: 1

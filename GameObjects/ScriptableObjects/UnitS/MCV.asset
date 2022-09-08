@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd58d907145445e42b66b7f2beaa7615, type: 3}
+  m_Name: MCV
+  m_EditorClassIdentifier: 
+  playerID: 1
+  unitName: MCV
+  Icon: {fileID: 21300000, guid: cf9c8ab0f0391f047aa461c705ae5ce2, type: 3}
+  attackRange: 2
+  attackSpeed: 5
+  projectileSpeed: 2
+  health: 100
+  damage: 3
+  minDamage: 1
+  maxDamage: 3
+  viewRange: 8
+  viewAngle: 50
+  viewSpeed: 0.2
+  armor: 3
+  moveStopRange: 2
+  productionCost: 275
+  productionTime: 25
+  canGatherResources: 1
+  canConstructBuilding: 1
+  workSpeed: 5
+  workPower: 50
+  carryAmount: 250
+  ammoAmount: -1

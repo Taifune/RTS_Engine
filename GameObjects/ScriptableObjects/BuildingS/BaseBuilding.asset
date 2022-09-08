@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 774c97196c46d56419164b138cdded3d, type: 3}
+  m_Name: BaseBuilding
+  m_EditorClassIdentifier: 
+  playerID: 1
+  typeID: 1
+  Name: Building
+  Icon: {fileID: 0}
+  health: 500
+  attackRange: 0
+  attackSpeed: 0
+  damage: 0
+  armor: 2
+  buildingSize: 4
+  buildingRange: -1
+  buildingCost: 225
+  buildingSpeed: 5
+  canReciveResources: 0
